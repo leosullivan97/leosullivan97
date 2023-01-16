@@ -61,9 +61,9 @@ Transparent, communicative, dedicated and superior development.<br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prestonzen&show_icons=true&theme=radical" alt="my github stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leosullivan97&show_icons=true&theme=radical" alt="my github stats" height="190px" />
     &nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=prestonzen&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leosullivan97&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
 </p>
 <!-- <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="my github stats" height="190px" />
