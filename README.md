@@ -2,12 +2,12 @@
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=prestonzen&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=leosullivan97&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Fullstack Deeptech Developer (Blockchain, AI, and more!)
+## Front End Web Developer
 
-⦓ Why dream when you can build your reality? ⦔
+⦓ Bringing Ideas into Reality ⦔
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithms.<br>
 6+ years of development experience on projects ranging from small size applications to complex enterprise solutions.<br>
